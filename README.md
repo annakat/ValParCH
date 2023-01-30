@@ -1,0 +1,2 @@
+# ValParCH
+ satellite indices Switzerland
